@@ -1,1 +1,1 @@
-# codealpha
+# Simple Calculator 
